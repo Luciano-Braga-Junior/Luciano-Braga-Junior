@@ -15,7 +15,7 @@ Devorador de código e criador de soluções malucas! Transformando café em lin
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Braga-Junior)](https://github.com/Luciano-Braga-Junior/LP-SistemaRh)
 
 ## 👉  Para me encontrar
-![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Braga-Junior&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Principais)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-braga-junior-698580237/)
 
 - Telefone: (27) 99652-5274
 - Email: luciano.b.junior027@gmail.com
