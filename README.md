@@ -12,7 +12,7 @@ Devorador de código e criador de soluções malucas! Transformando café em lin
 ## Soft Skills
 - Comunicação Efetiva - Trabalho em Equipe- Resolução de Problemas - Proatividade - Persistência
 
-![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagooSillv&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Principais)
+![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Luciano-Braga-Junior&theme=tokyonight&hide_border=true&custom_title=Linguagens%20Principais)
 
 ## 👉  Para me encontrar
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-braga-junior-698580237/)
