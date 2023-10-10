@@ -2,7 +2,7 @@
 
 ## Missão 🚀
 
-"Devorador de código e criador de soluções malucas! Transformando café em linhas de código. Aqui no meu GitHub, você vai encontrar uma bagunça organizada de projetos e ideias malucas que venho trabalhando. Às vezes, as coisas explodem, mas, iae, essa é a diversão da programação, certo? Então, fique à vontade para fuçar e, se gostar de algo, dê uma estrela! Vamos juntos nessa jornada de código e diversão, porque programar também é sobre se divertir no caminho!" 💻
+Devorador de código e criador de soluções malucas! Transformando café em linhas de código. Aqui no meu GitHub, você vai encontrar uma bagunça organizada de projetos e ideias malucas que venho trabalhando. Às vezes, as coisas explodem, mas, iae, essa é a diversão da programação, certo? Então, fique à vontade para fuçar e, se gostar de algo, dê uma estrela! Vamos juntos nessa jornada de código e diversão, porque programar também é sobre se divertir no caminho!💻
 
 ## Hard Skills
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
